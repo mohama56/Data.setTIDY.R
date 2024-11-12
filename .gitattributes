@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+UCI[[:space:]]HAR[[:space:]]Dataset/train/X_train.txt filter=lfs diff=lfs merge=lfs -text
