@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ===================================================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
@@ -9,6 +10,23 @@ DITEN - Universit?  degli Studi di Genova, Genoa (I-16145), Italy.
 Universitat Polit?cnica de Catalunya (BarcelonaTech). Vilanova i la Geltr? (08800), Spain
 activityrecognition '@' smartlab.ws 
 ===================================================================================================
+=======
+# Data.setTIDY.R
+Collect, work with, and clean large data sets.
+
+
+==================================================================
+Human Activity Recognition Using Smartphones Dataset
+Version 1.0
+==================================================================
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
+Smartlab - Non Linear Complex Systems Laboratory
+DITEN - Università degli Studi di Genova.
+Via Opera Pia 11A, I-16145, Genoa, Italy.
+activityrecognition@smartlab.ws
+www.smartlab.ws
+==================================================================
+>>>>>>> 5be9f859ae8381c03a00bde168b79fd5381453ab
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
@@ -56,16 +74,22 @@ Notes:
 ======
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the text file.
+<<<<<<< HEAD
 - The units used for the accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2).
 - The gyroscope units are rad/seg.
 - A video of the experiment including an example of the 6 recorded activities with one of the participants can be seen in the following link: http://www.youtube.com/watch?v=XOEN9W05_4A
 
 For more information about this dataset please contact: activityrecognition '@' smartlab.ws
+=======
+
+For more information about this dataset contact: activityrecognition@smartlab.ws
+>>>>>>> 5be9f859ae8381c03a00bde168b79fd5381453ab
 
 License:
 ========
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
 
+<<<<<<< HEAD
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013. 
 
 This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors or their institutions for its use or misuse. Any commercial use is prohibited.
@@ -80,3 +104,10 @@ Other Related Publications:
 
 ==================================================================================================
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita and Xavier Parra. November 2013.
+=======
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+
+This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors or their institutions for its use or misuse. Any commercial use is prohibited.
+
+Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
+>>>>>>> 5be9f859ae8381c03a00bde168b79fd5381453ab
