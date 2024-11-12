@@ -1,8 +1,8 @@
 {
     "id": "97F6A226",
-    "path": "C:/Users/hp/OneDrive/R Programming/DataSetTIDY.R/UCI HAR Dataset/README.txt",
-    "project_path": "UCI HAR Dataset/README.txt",
-    "type": "text",
+    "path": "C:/Users/hp/OneDrive/R Programming/DataSetTIDY.R/UCI HAR Dataset/README.md",
+    "project_path": "UCI HAR Dataset/README.md",
+    "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
@@ -11,14 +11,18 @@
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "21,59",
+        "scrollLine": "4",
+        "rmdVisualMode": "false",
+        "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1731397659,
+    "lastKnownWriteTime": 1731401063,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1731397659,
+    "last_content_update": 1731401063353,
     "read_only": false,
     "read_only_alternatives": []
 }
