@@ -52,7 +52,17 @@ The following files are available for the train and test data. Their description
 - 'train/Inertial Signals/body_acc_x_train.txt': The body acceleration signal obtained by subtracting the gravity from the total acceleration.
 
 - 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.
+  
+How to run run_analysis.R:
+==========================
 
+1. Place the "UCI HAR Dataset" folder in your working directory.
+
+2. Source the `run_analysis.R` script:
+   source("run_analysis.R")
+   
+3. The script will create a file named `tidy_data.txt` in your working directory.
+   
 Notes:
 ======
 - Features are normalized and bounded within [-1,1].
